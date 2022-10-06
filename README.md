@@ -1,7 +1,7 @@
 
 
  <h1 align="center">Hi 👋, I'm Ankush Mehra</h1>
-<h3 align="center">A passionate developer boy who is trying to learn stuffs.</h3><br><br>
+<h3 align="center">A passionate developer who is trying to learn stuffs.</h3><br><br>
 
 <p align="center"><img style="margin-right:40px ;" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
      alt="image" height="500" width="700" ></p>
