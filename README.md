@@ -7,12 +7,11 @@
      alt="image" height="500" width="700" ></p>
 <br><br><br>
      
- - 👋 Hi, I’m @mehraankush
-- 👀 I’m interested in learning code
+- 👋 Hi, I’m @mehraankush
 - 🌱 I’m currently learning **Javascript , React etc**
-- 💞️ I’m looking to collaborate on  dont know
+- 💞️ I’m looking to collaborate on  anything
 - 📫 How to reach me instagram **mehra_69**
-- ✨ connect me **mehraankush36@gmail.com** 
+- ✨ connect me **imdevloperr@gmail.com** 
 - ✨Linkedin **Ankush mehra** 
 - ⚡ Fun fact **I think i can code**
 
