@@ -24,7 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true)<br/>
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+ <p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p> 
 </div>
 
 
