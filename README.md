@@ -22,10 +22,16 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p> 
 
-<div align="center">
- <p>![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </p> 
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehraankush&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 
 
 
