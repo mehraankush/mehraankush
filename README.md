@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on  anything
 - 📫 How to reach me instagram **mehra_69**
 - ✨ connect me **ankushmehra.dev@gmail.com** 
-- ✨[Linkedin]!(https://www.linkedin.com/in/ankush-mehra-9a57a1233/) **Ankush mehra** 
+- ✨![Linkedin](https://www.linkedin.com/in/ankush-mehra-9a57a1233/) **Ankush mehra** 
 - ⚡ Fun fact **I think i can code**
 
 
