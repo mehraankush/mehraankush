@@ -5,12 +5,10 @@
 
      
 - 👋 I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
-- 🌱 I’m currently learning **Typescript , Nextjs etc**
-- 💞️ I’m looking to collaborate on  anything
-- 📫 How to reach me instagram **mehra_69**
-- ✨ connect me **ankushmehra.dev@gmail.com** 
-- ✨<a href="https://www.linkedin.com/in/ankush-mehra-9a57a1233/">LinkedIn</a> **Ankush mehra** 
-- ⚡ Fun fact **I think i can code**
+- 💞️  I’m currently learning  **React Native**
+- ✨  I’m looking to collaborate on Web based Project
+- 📫 My Tech Stack: *NextJS*,*ReactJS*,*NodeJS*, *Mongodb Atlas*,, *TailwindCSS*.
+- ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
 - 🟢 Working as a Software Developmer Intern at [TargetTech](https://targettechnology.in/)
