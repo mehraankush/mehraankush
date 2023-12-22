@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I think i can code**
 
 ### My work experience
-- 🟢 Working as a Software Development Intern at [TargetTech](https://targettechnology.in/)
+- 🟢 Working as a Software Developmer Intern at [TargetTech](https://targettechnology.in/)
 - 🔴 Worked as a Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
 - 🔴 Worked as a Freelance Developer  at [CreatorCoreAI]()
 
