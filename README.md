@@ -3,9 +3,6 @@
  <h1 align="center">Hi 👋, This is Ankush Mehra</h1>
 <h3 align="center">I  trun Ideas into reality </h3><br><br>
 
-<p align="center"><img style="margin-right:40px ;" align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-     alt="image" height="500" width="700" ></p>
-<br><br><br>
      
 - 👋 Hi, I’m @mehraankush
 - 🌱 I’m currently learning **Typescript , Nextjs etc**
