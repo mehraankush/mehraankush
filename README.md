@@ -4,14 +4,14 @@
 <h3 align="center">I  trun Ideas into reality </h3><br><br>
 
      
-- 👋 I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
+- 👋 I am currently working with technologies based on **Javascript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
 - 💞️  I’m currently learning  **React Native**
 - ✨  I’m looking to collaborate on Web based Project
 - 📫 My Tech Stack: *NextJS*,*ReactJS*,*NodeJS*, *Mongodb Atlas*,, *TailwindCSS*.
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
-- 🟢 Working as a Software Developmer Intern at [TargetTech](https://targettechnology.in/)
+- 🟢 Working as a Software Developer Intern at [TargetTech](https://targettechnology.in/)
 - 🔴 Worked as a Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
 - 🔴 Worked as a Freelance Developer  at [CreatorCoreAI]()
 
@@ -43,22 +43,7 @@
 
 
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankush mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush mehra" height="30" width="40" /></a>
-<a href="https://fb.com/ankush mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankush mehra" height="30" width="40" /></a>
-<a href="https://instagram.com/mehra_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehra_69" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mehraankush36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehraankush36" height="30" width="40" /></a>
-</p>
-
 <!---
 mehraankush/mehraankush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/mehraankush/count.svg" />
-</p>
