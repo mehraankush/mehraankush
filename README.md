@@ -19,7 +19,7 @@
 ### My work experience
 - 🟢 Working as a Software Developer Intern at [TargetTech](https://targettechnology.in/)
 - 🔴 Worked as a Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
-- 🔴 Worked as a Freelance Developer  at [CreatorCoreAI]()
+- 🔴 Worked as a Freelance Developer  at [CreatorCore]()
 
 ### My socials are listed below
 - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
