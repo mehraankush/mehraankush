@@ -2,6 +2,9 @@
 ![Template](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I am Ankush Mehra
+<div align="center">
+  <h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ankush Mehra</h1>
+</div>
 
 <h3 align="center">I  trun Ideas into reality </h3><br><br>
 
