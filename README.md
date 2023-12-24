@@ -5,6 +5,9 @@
 <div align="center">
   <h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ankush Mehra</h1>
 </div>
+<div align="center">
+  <h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" /> I am Ankush Mehra</h1>
+</div>
 
 <h3 align="center">I  trun Ideas into reality </h3><br><br>
 
