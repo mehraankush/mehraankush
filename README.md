@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">I  trun Ideas into reality </h3><br><br>
-<h4 align="center">Web developer , Content Writer, Competitive Coder , Or jo Kaho </h4><br><br>
+<h4 align="center">Web developer , Content Writer, Competitive Coder ... Or jo Kaho </h4><br><br>
 
      
 - 👋 I am currently working with technologies based on **Javascript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
