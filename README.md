@@ -17,6 +17,8 @@
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
+- 🟢 Working as a Software Developer Intern at [Endlessriver.ai](https://endlessriver.ai/)
+- 🟢 Working as a Software Developer Intern at [Dair Cloud](https://cais.dair.cloud)
 - 🟢 Working as a Software Developer Intern at [TargetTech](https://targettechnology.in/)
 - 🔴 Worked as a Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
 - 🔴 Worked as a Freelance Developer  at [CreatorCore]()
