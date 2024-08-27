@@ -17,11 +17,11 @@
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
-- 🟢 Working as a Software Developer Intern at [Endlessriver.ai](https://endlessriver.ai/)
-- 🟢 Working as a Software Developer Intern at [Dair Cloud](https://cais.dair.cloud)
-- 🟢 Working as a Software Developer Intern at [TargetTech](https://targettechnology.in/)
-- 🔴 Worked as a Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
-- 🔴 Worked as a Freelance Developer  at [CreatorCore]()
+- 🟢 Software Developer Intern at [Endlessriver.ai](https://endlessriver.ai/)
+- 🟢 Software Developer Intern at [Dair Cloud](https://cais.dair.cloud)
+- 🟢 Software Developer Intern at [TargetTech](https://targettechnology.in/)
+- 🔴 Frontend Devloper Intern at [RollingNotes](https://rollingnotes.in/)
+- 🔴 Freelance Developer  at [CreatorCore]()
 
 ### My socials are listed below
 - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
