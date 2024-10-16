@@ -23,6 +23,14 @@
 - 🔴 Frontend Devloper  at [RollingNotes](https://rollingnotes.in/)
 - 🔴 Freelance Developer at [CreatorCore]()
 
+# Recent Blogs:
+ - [How to use font from local files globally in Tailwind CSS ?](https://www.geeksforgeeks.org/how-to-use-font-from-local-files-globally-in-tailwind-css/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+ - [Difference between CSS Variables and Preprocessor](https://www.geeksforgeeks.org/difference-between-css-variables-and-preprocessor/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+ - [Can a CSS class inherit one or more other classes ?](https://www.geeksforgeeks.org/difference-between-css-variables-and-preprocessor/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+ - [How to fix weird behaviors of floating elements using CSS ?](https://www.geeksforgeeks.org/how-to-fix-weird-behaviors-of-floating-elements-using-css/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+ - [HTML tfoot char Attribute](https://www.geeksforgeeks.org/html-tfoot-char-attribute/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
+
+
 ### My socials are listed below
 - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
 - LinkedIn at [Ankush Mehra](https://www.linkedin.com/in/ankush-mehra-9a57a1233/)
