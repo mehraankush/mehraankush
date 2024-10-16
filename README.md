@@ -12,11 +12,11 @@
      
 - 👋 I am currently working with technologies based on **Javascript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
 - 💞️  I’m currently learning  **React Native**
-- ✨  I’m looking to collaborate on Web based Project
 - 📫 My Tech Stack: *NextJS*,*ReactJS*,*NodeJS*, *Mongodb Atlas*,, *TailwindCSS*.
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
+- 🟢 SDE Intern at [Codemonk](https://codemonk.io/)
 - 🟢 SWE Intern at [Endlessriver.ai](https://endlessriver.ai/)
 - 🟢 SDE Intern at [Dair Cloud](https://cais.dair.cloud)
 - 🟢 Full Stack Developer at [TargetTech](https://targettechnology.in/)
