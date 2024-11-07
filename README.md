@@ -12,7 +12,7 @@
      
 - 👋 I am currently working with technologies based on **Javascript**. Technologies such as **ReactJS**, **NextJS**, **NodeJS**.
 - 💞️  I’m currently learning  **React Native**
-- 📫 My Tech Stack: *NextJS*,*ReactJS*,*NodeJS*, *Mongodb Atlas*,, *TailwindCSS*.
+- 📫 My Tech Stack: *NextJS*,*ReactJS*,*NodeJS*, *Mongodb Atlas*, *TailwindCSS* etc.
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
