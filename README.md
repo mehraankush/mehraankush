@@ -35,9 +35,8 @@
 - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
 - LinkedIn at [Ankush Mehra](https://www.linkedin.com/in/ankush-mehra-9a57a1233/)
 - Portfolio/Website at [Portfolio](https://ankush-mehra.vercel.app/)
-- Instagram at [@mehra69](https://www.instagram.com/mehra_69/)
 - Mail me at [ankushmehra.dev@gmail.com] regarding any work or if you just wanna connect
--  
+  
 # 📊 GitHub Stats:
 <p align="center">
   <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true" />
