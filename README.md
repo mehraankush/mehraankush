@@ -16,12 +16,12 @@
 - ✨ Languages I know: *JavaScript*, *TypeScript*, *CPP*.
 
 ### My work experience
-- 🟢 SDE Intern at [Codemonk](https://codemonk.io/)
-- 🟢 SWE Intern at [Endlessriver.ai](https://endlessriver.ai/)
-- 🟢 SDE Intern at [Dair Cloud](https://cais.dair.cloud)
-- 🟢 Full Stack Developer at [TargetTech](https://targettechnology.in/)
-- 🔴 Frontend Devloper  at [RollingNotes](https://rollingnotes.in/)
-- 🔴 Freelance Developer at [CreatorCore]()
+- 🟢 Worked as SDE Intern at [Codemonk](https://codemonk.io/)
+- 🟢 Worked as SWE Intern at [Endlessriver.ai](https://endlessriver.ai/)
+- 🟢 Worked as SDE Intern at [Dair Cloud](https://cais.dair.cloud)
+- 🟢 Worked as Full Stack Developer at [TargetTech](https://targettechnology.in/)
+- 🔴 Worked as Frontend Devloper at [RollingNotes](https://rollingnotes.in/)
+- 🔴 Worked as Frontend Developer at [CreatorCore]()
 
 # Recent Blogs:
  - [How to use font from local files globally in Tailwind CSS ?](https://www.geeksforgeeks.org/how-to-use-font-from-local-files-globally-in-tailwind-css/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
