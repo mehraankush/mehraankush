@@ -14,6 +14,13 @@
 - 💞️ I've done almost 6-7 internships.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+- My socials are listed below
+  - Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
+  - LinkedIn at [Ankush Mehra](https://www.linkedin.com/in/ankush-mehra-9a57a1233/)
+  - Portfolio/Website at [Portfolio](https://ankush-mehra.vercel.app/)
+  - Mail me at [ankushmehra.dev@gmail.com](ankushmehra.dev@gmail.com) regarding any work or if you just wanna connect
+  
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ### My work experience
   - 🟢 Working as SDE Intern at [Cambrian Bioworks](https://www.cambrianbioworks.com/)
   - 🟢 Worked as SDE Intern  at  [Codemonk](https://codemonk.io/)
@@ -31,13 +38,7 @@
  - [How to fix weird behaviors of floating elements using CSS ?](https://www.geeksforgeeks.org/how-to-fix-weird-behaviors-of-floating-elements-using-css/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
  - [HTML tfoot char Attribute](https://www.geeksforgeeks.org/html-tfoot-char-attribute/?itm_source=auth&itm_medium=contributions&itm_campaign=articles)
    
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-### My socials are listed below
-- Twitter at [@mehraankush69](https://twitter.com/mehrankush69)
-- LinkedIn at [Ankush Mehra](https://www.linkedin.com/in/ankush-mehra-9a57a1233/)
-- Portfolio/Website at [Portfolio](https://ankush-mehra.vercel.app/)
-- Mail me at [ankushmehra.dev@gmail.com](ankushmehra.dev@gmail.com) regarding any work or if you just wanna connect
-  
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehraankush&theme=react&hide_border=true" />
