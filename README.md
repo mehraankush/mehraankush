@@ -1,5 +1,9 @@
 
- **Hello, I'm *Ankush Mehra***
+<p>
+  <img src="https://media.tenor.com/C7caMK_C6IQAAAAi/running-run.gif" alt="Running GIF" width="40" style="vertical-align: middle;"/>
+  <strong>Hello, I'm <em>Ankush Mehra</em></strong>
+</p>
+
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - 🚀 I build products end-to-end — from ideation to development, architecture, and scaling.    
