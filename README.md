@@ -5,6 +5,7 @@
 - 🚀 I build products end-to-end — from ideation to development, architecture, and scaling.    
 - 👋 I've worked with technologies such as **NextJS**/**ReactJS**, **Vue.js**, **NodeJS**, **AWS CDK**.
 - 💞️ I’m currently learning and working with **Angular**, **Python**, and **Django** .
+- 🚀 My Tech Stack: NextJS, Redis, TypeScript, Tailwind, AWS.
 - ✨ Languages I work in : **JavaScript**/**TypeScript**, and **Python**.
 - 💞️ I've done almost 6-7 internships.
 
