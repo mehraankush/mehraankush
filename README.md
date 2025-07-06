@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://media.tenor.com/C7caMK_C6IQAAAAi/running-run.gif" alt="Running GIF" width="40" style="vertical-align: middle;"/>
+  <img src="https://media.tenor.com/C7caMK_C6IQAAAAi/running-run.gif" alt="Running GIF" width="35" style="vertical-align: middle;"/>
   <strong>Hello, I'm <em>Ankush Mehra</em></strong>
 </p>
 
