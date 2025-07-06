@@ -1,5 +1,5 @@
 
- Hello, I'm *Ankush Mehra*
+ **Hello, I'm *Ankush Mehra***
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - 🚀 I build products end-to-end — from ideation to development, architecture, and scaling.    
