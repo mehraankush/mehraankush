@@ -11,7 +11,7 @@
 - 💞️ I’m currently learning and working with **Angular**, **Python** and **Django** .
 - 🚀 My Tech Stack: NextJS, Redis, TypeScript, Tailwind, AWS.
 - ✨ Languages I work in : **JavaScript**/**TypeScript**, and **Python**.
-- 💞️ I've done almost 6-7 internships.
+- 💞️ I've worked in 6-7 internships.
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - My socials are listed below
