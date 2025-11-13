@@ -22,7 +22,8 @@
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ### My work experience
-  - 🟢 Working as SDE Intern at [Cambrian Bioworks](https://www.cambrianbioworks.com/)
+  - 🟢 Working as Software Engineer at [SpotDraft](https://www.spotdraft.com)
+  - 🟢 Worked as SDE Intern at [Cambrian Bioworks](https://www.cambrianbioworks.com/)
   - 🟢 Worked as SDE Intern  at  [Codemonk](https://codemonk.io/)
   - 🟢 Worked as SWE Intern  at  [Endlessriver.ai](https://endlessriver.ai/)
   - 🟢 Worked as SDE Intern  at  [Dair Cloud](https://cais.dair.cloud)
