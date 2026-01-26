@@ -21,15 +21,19 @@
   - Mail me at [ankushmehra.dev@gmail.com](ankushmehra.dev@gmail.com) regarding any work or if you just wanna connect
   
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-### My work experience
-  - 🟢 Working as Software Engineer at [SpotDraft](https://www.spotdraft.com)
-  - 🟢 Worked as SDE Intern at [Cambrian Bioworks](https://www.cambrianbioworks.com/)
-  - 🟢 Worked as SDE Intern  at  [Codemonk](https://codemonk.io/)
-  - 🟢 Worked as SWE Intern  at  [Endlessriver.ai](https://endlessriver.ai/)
-  - 🟢 Worked as SDE Intern  at  [Dair Cloud](https://cais.dair.cloud)
-  - 🟢 Worked as Full Stack Developer at [TargetTech](https://targettechnology.in/)
-  - 🔴 Worked as Frontend Devloper at [RollingNotes](https://rollingnotes.in/)
-  - 🔴 Worked as Frontend Developer at [CreatorCore]()
+## My work experience
+
+🟢 **Software Engineer** — SpotDraft  
+🟢 **SDE Intern** — Cambrian Bioworks  
+🟢 **SDE Intern** — Codemonk  
+🟢 **SWE Intern** — EndlessRiver.ai  
+🟢 **SDE Intern** — Dair Cloud  
+🟢 **Full Stack Developer** — TargetTech  
+🔴 **Frontend Developer** — RollingNotes  
+🔴 **Frontend Developer** — CreatorCore  
+
+
+
     
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 ### Recent Blogs:
